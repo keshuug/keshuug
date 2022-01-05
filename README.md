@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming Languages & Web Development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me Text Me Instagram @keshu__g 
+- 📫 Text Me Instagram @keshu__g 
 
 <!---
 keshuug/keshuug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
